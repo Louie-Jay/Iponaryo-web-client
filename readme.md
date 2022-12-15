@@ -7,11 +7,14 @@ Installation:
 Example (XAMPP):
 Place the folder "Iponaryo" on C:\xammp\htdocs
 
-More Info:
 Use Case Diagram: https://online.visual-paradigm.com/share.jsp?id=323031313931372d31
+
 Created with: teleporthq.io
+
 Language Used: HTML + CSS
+
 Completion: 50% (Rough Estimate)
+
 For: School Project
 
 Current Supported Display: 
