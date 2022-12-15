@@ -1,0 +1,32 @@
+.country-select-container {
+  display: flex;
+  position: relative;
+}
+.country-select-select {
+  flex: 1;
+  color: rgb(15, 158, 236);
+  width: auto;
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  transition: 0.3s;
+  margin-left: var(--dl-space-space-halfunit);
+  padding-top: var(--dl-space-space-halfunit);
+  border-color: var(--dl-color-primary-500);
+  border-width: 1px;
+  margin-right: 0px;
+  padding-left: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-halfunit);
+  padding-right: 0px;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.country-select-select:hover {
+  border-color: var(--dl-color-primary-500);
+}
+.country-select-select:active {
+  border-color: var(--dl-color-primary-300);
+}
+@media(max-width: 1200px) {
+  .country-select-select {
+    border-color: var(--dl-color-gray-700);
+  }
+}

@@ -1,0 +1,38 @@
+.r-s-s-i-frame-container {
+  display: flex;
+  position: relative;
+}
+.r-s-s-i-frame-iframe {
+  width: 100%;
+  height: var(--dl-size-size-maxwidth);
+}
+
+
+
+
+
+
+
+
+
+@media(max-width: 1600px) {
+  .r-s-s-i-frame-container {
+    width: 100%;
+    height: auto;
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+  }
+  .r-s-s-i-frame-iframe {
+    width: var(--dl-size-size-maxwidth);
+    padding: var(--dl-space-space-halfunit);
+  }
+  .r-s-s-i-frame-root-class-name {
+    width: 100%;
+    height: auto;
+  }
+  .r-s-s-i-frame-root-class-name1 {
+    width: 100%;
+    height: auto;
+  }
+}

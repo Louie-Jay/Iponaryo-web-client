@@ -1,0 +1,97 @@
+.loading-container {
+  top: 50%;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.loading-lottie-node {
+  width: 300px;
+  height: 300px;
+}
+.loading-text {
+  line-height: 1.15;
+}
+
+
+
+
+
+
+
+
+@media(max-width: 1600px) {
+  .loading-container {
+    z-index: 50;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+  }
+  .loading-text {
+    color: var(--dl-color-success-500);
+  }
+  .loading-root-class-name {
+    top: 80%;
+    left: 40%;
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+  }
+  .loading-root-class-name1 {
+    top: 80%;
+    left: 40%;
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+    align-self: center;
+  }
+  .loading-root-class-name2 {
+    top: 80%;
+    left: 40%;
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+    align-self: center;
+  }
+  .loading-root-class-name3 {
+    top: 80%;
+    left: 40%;
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+    align-self: center;
+  }
+  .loading-root-class-name4 {
+    top: 80%;
+    left: 40%;
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+    align-self: center;
+  }
+  .loading-root-class-name5 {
+    top: 80%;
+    left: 40%;
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+    align-self: center;
+  }
+  .loading-root-class-name6 {
+    top: 80%;
+    left: 40%;
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+    align-self: center;
+  }
+  .loading-root-class-name7 {
+    top: 80%;
+    left: 40%;
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+    align-self: center;
+  }
+}
