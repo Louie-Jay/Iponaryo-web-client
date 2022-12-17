@@ -9,6 +9,8 @@ Place the folder "Iponaryo" on C:\xammp\htdocs
 
 Use Case Diagram: https://online.visual-paradigm.com/share.jsp?id=323031313931372d31
 
+Live Project: https://iponaryo.netlify.app/
+
 Created with: teleporthq.io
 
 Language Used: HTML + CSS
